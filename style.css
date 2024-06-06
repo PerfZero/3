@@ -103,6 +103,13 @@ a {
   max-width: 400px;
 }
 
+.pic_1{
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
 /* Media Queries for larger screens */
 @media (max-width: 600px) {
   body {
